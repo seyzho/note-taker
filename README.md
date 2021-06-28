@@ -22,8 +22,8 @@
   ## Test 
   none
   ## Questions
-  ![alt text](./public/assets/images/screenshot2)
-  ![alt text](./public/assets/images/screenshot3)
+  ![alt text](./assets/images/screenshot2)
+  ![alt text](./assets/images/screenshot3)
 
   If you have any Questions, please do not hesitate to contact me on: 
   -Github: [seyzho](https://github.com/seyzho)
